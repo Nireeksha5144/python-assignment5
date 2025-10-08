@@ -1,5 +1,8 @@
 # python-assignment5
 Assignment submission :Python script for the course tasks
+
+
+
 Task1:The program creates a dictionary that stores student names as keys and their corresponding marks as values. It then prompts the user to enter the name of a student. If the entered name exists in the dictionary, the program retrieves and displays the student’s marks. If the name is not found, it shows a message saying “Student not found,” making the program user-friendly by handling cases when the input does not match any student in the records.
 
 Task2:The program begins by creating a list named list containing numbers from 1 to 10 and then prints the original list. Next, it extracts the first five elements of the list using the slicing notation list[0:5], which creates a new list called extracted containing the numbers 1 through 5. This extracted list is then printed to show the subset. Finally, the code reverses the extracted list by using slicing with a step of -1 ([::-1]), which creates a new list with the elements in reverse order exactly as [5, 4, 3, 2, 1]. The reversed list is printed to demonstrate how list slicing with a negative step can be used to invert the order of list elements, effectively reversing the list.
